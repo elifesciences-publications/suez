@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Knowles et al., "Determining the genetic basis of anthracycline-cardiotoxicity by molecular response QTL mapping in induced cardiomyocytes". eLife, 2018. http://dx.doi.org/10.7554/eLife.33480
+
 # suez: an R package for mapping response-eQTLs
 
 `suez` extends the `PANAMA` eQTL mapping framework (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002330) to handle
